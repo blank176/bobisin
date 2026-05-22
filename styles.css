@@ -1,0 +1,36 @@
+.header{
+    height: 90px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #808080;
+}
+
+.Inicio{
+    background-color: darkkhaki;
+    height: 90px;
+    width: 400px;
+}
+
+.Informacion{
+    background-color: darkmagenta;
+    height: 90px;
+    width: 400px;
+}
+
+.Registrarse{
+    background-color: darkolivegreen;
+    height: 90px;
+    width: 400px;
+}
+
+.Iniciar{
+    background-color: darkorange;
+    height: 90px;
+    width: 400px;
+}
+
+
+
+
